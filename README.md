@@ -1,7 +1,7 @@
 # surya-matrix-multiplication
 Optimized 2-multiplication method for 2x2 symmetric circulant matrices.
 ---
-```
+
 # 🔢 Surya Matrix Multiplication (SMM)
 
 This project implements **three methods** for multiplying 2×2 matrices:
@@ -11,7 +11,6 @@ This project implements **three methods** for multiplying 2×2 matrices:
 3. 🧠 **Surya’s Method** (2 multiplications) – optimized for *symmetric circulant matrices*
 
 ---
-```
 
 ## 📂 Project Structure
 
@@ -27,23 +26,23 @@ surya-matrix-multiplication/
 ├── LICENSE                      # MIT License
 └── .gitignore                   # Python cache ignores
 
-````
+
 
 ---
 
 ## 🧪 How to Run
 
-1. **Clone the repo**  
-```bash
+1. **Clone the repo**
+   
 git clone https://github.com/keerthisuryateja1/surya-matrix-multiplication.git
 cd surya-matrix-multiplication/src
-````
+
 
 2. **Run the demo**
 
-```
+
 python demo.py
-```
+
 
 ---
 
