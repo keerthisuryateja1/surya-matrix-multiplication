@@ -25,8 +25,6 @@ surya-matrix-multiplication/
 ├── README.md                    # You're reading it 😎
 ├── LICENSE                      # MIT License
 └── .gitignore                   # Python cache ignores
-
-
 ```
 ---
 
