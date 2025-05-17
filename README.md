@@ -33,10 +33,10 @@ surya-matrix-multiplication/
 ## 🧪 How to Run
 
 1. **Clone the repo**
-   
+```
 git clone https://github.com/keerthisuryateja1/surya-matrix-multiplication.git
 cd surya-matrix-multiplication/src
-
+```
 
 2. **Run the demo**
 
