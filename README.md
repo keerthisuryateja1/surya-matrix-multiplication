@@ -40,9 +40,9 @@ cd surya-matrix-multiplication/src
 
 2. **Run the demo**
 
-
+```
 python demo.py
-
+```
 
 ---
 
