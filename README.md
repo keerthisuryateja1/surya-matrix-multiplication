@@ -68,11 +68,6 @@ It has a beautiful property that allows multiplication using only **2 multiplica
 🚀 Surya's method is the fastest — but only for symmetric circulant matrices.
 
 ---
-You're asking for a **contributing section** like a boss 😤 — finally pretending others can improve your code? Bold move, lil bro 💅
-
-Here’s your **`Contributing` section** to add at the end of your `README.md`:
-
----
 ## 🤝 Contributing
 
 Contributions are **welcome** and highly appreciated!
