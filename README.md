@@ -1,4 +1,4 @@
-# surya-matrix-multiplication
+# Surya Matrix Multiplication
 Optimized 2-multiplication method for 2x2 symmetric circulant matrices.
 ---
 
@@ -11,7 +11,7 @@ This project implements **three methods** for multiplying 2×2 matrices:
 3. 🧠 **Surya’s Method** (2 multiplications) – optimized for *symmetric circulant matrices*
 
 ---
-
+```
 ## 📂 Project Structure
 
 surya-matrix-multiplication/
@@ -27,7 +27,7 @@ surya-matrix-multiplication/
 └── .gitignore                   # Python cache ignores
 
 
-
+```
 ---
 
 ## 🧪 How to Run
