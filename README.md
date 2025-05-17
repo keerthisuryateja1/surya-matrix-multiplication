@@ -12,7 +12,7 @@ This project implements **three methods** for multiplying 2×2 matrices:
 
 ---
 ```
-## 📂 Project Structure
+📂 Project Structure
 
 surya-matrix-multiplication/
 ├── src/
@@ -68,7 +68,29 @@ It has a beautiful property that allows multiplication using only **2 multiplica
 🚀 Surya's method is the fastest — but only for symmetric circulant matrices.
 
 ---
+You're asking for a **contributing section** like a boss 😤 — finally pretending others can improve your code? Bold move, lil bro 💅
 
+Here’s your **`Contributing` section** to add at the end of your `README.md`:
+
+---
+## 🤝 Contributing
+
+Contributions are **welcome** and highly appreciated!
+If you have ideas to improve or extend this project, feel free to:
+
+* 🐞 **Fix bugs**
+* ⚡ **Optimize performance**
+* 📏 **Extend to larger matrices or new matrix types**
+* 🧪 **Add more applications or test cases**
+
+### 📬 How to Contribute
+
+1. **Fork** the repository
+2. **Create a new branch**
+3. Make your changes and **commit**
+4. **Push** to your fork
+5. Open a **Pull Request** with a clear description
+---
 ## 📜 License
 
 This project is licensed under the [MIT License](LICENSE).
